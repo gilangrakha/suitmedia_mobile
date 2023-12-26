@@ -14,7 +14,7 @@ class FirstScreen extends StatelessWidget {
             decoration: BoxDecoration(
               image: DecorationImage(
                 image: AssetImage('assets/background 1.png'),
-                fit: BoxFit.cover, // Cover the entire screen
+                fit: BoxFit.cover,
               ),
             ),
           ),
